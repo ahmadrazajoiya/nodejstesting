@@ -6,6 +6,8 @@ class ah1
         console.log(b+c);
         console.log("hello");
         console.log("sdfasdf");
+        console.log("sdfasdf");
+
 
     }
 }
