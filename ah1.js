@@ -5,6 +5,7 @@ class ah1
         let b = 20;
         console.log(b+c);
         console.log("hello");
+        console.log("sdfasdf");
 
     }
 }
