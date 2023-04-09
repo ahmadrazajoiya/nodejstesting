@@ -8,6 +8,9 @@ class ah1
         console.log("sdfasdf");
         console.log("sdfasdf");
 
+        console.log("for stash");
+        console.log("1");
+
 
     }
 }
